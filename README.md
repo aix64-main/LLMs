@@ -1,4 +1,4 @@
-# *large Language Model (LLM)*
+# *large Language Models (LLMs)*
 ![LLM](https://github.com/user-attachments/assets/6edbb3d1-829b-4b28-89aa-8dc84e7c6114)
 
 
